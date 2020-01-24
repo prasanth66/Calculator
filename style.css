@@ -1,0 +1,54 @@
+#container{
+	height: 365px;
+	width: 400px;
+	background-color: lightgrey;
+	margin: 100px auto;
+}
+
+#header{
+	height: 40px;	
+	color: white;
+	background-color: black;
+}
+#header p{
+	position: absolute;
+	margin-top: 8px;
+	font-size: 25px;
+	margin-left:120px ;
+}
+
+#screen{
+	margin: 5px 5px 0px 5px;
+	height: 70px;
+	background-color: white;
+}
+
+#history{
+	height: 30px;
+	
+	
+}
+#previous{
+	float: right;
+	color: rgb(176, 171, 157);
+}
+#result{
+	height: 40px;	
+	float: right;
+	font-weight: bolder;
+}
+
+
+.button{
+	width: 95px;
+	height: 45px;
+	font-size: 20px;
+}
+.button:hover{
+	background-color: orange;
+}
+.symbol{
+	background-color: rgb(212, 89, 89);
+	color: white;
+}
+
